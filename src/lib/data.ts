@@ -1,0 +1,86 @@
+export const treatments = [
+  {
+    id: 1,
+    title: "Panchakarma Therapy",
+    description: "Deep detoxification to cleanse the body, remove toxins, and restore internal balance.",
+    image: "/images/treatments/panchakarma.jpg",
+  },
+  {
+    id: 2,
+    title: "Abhyanga Massage",
+    description: "Warm herbal oil massage that improves circulation, relaxes muscles, and calms the nervous system.",
+    image: "/images/treatments/abhyanga.jpg",
+  },
+  {
+    id: 3,
+    title: "Shirodhara Therapy",
+    description: "A continuous stream of oil on the forehead to reduce stress, improve sleep, and quiet the mind.",
+    image: "/images/treatments/sirodhara.jpg",
+  },
+  {
+    id: 4,
+    title: "Standard Ayurveda Formulations",
+    description: "Safe, time tested Ayurvedic preparations made using classical formulations to support overall wellness and balance.",
+    image: "/images/treatments/herbal-medicine.png",
+  },
+  {
+    id: 5,
+    title: "Skin & Hair Care",
+    description: "Natural treatments for healthy skin and hair using time-tested Ayurvedic ingredients.",
+    image: "/images/treatments/skin-hair.jpg",
+  },
+  {
+    id: 6,
+    title: "Weight Management",
+    description: "Balanced approach to weight loss through diet, herbs, and lifestyle correction.",
+    image: "/images/treatments/weight-management.jpg",
+  },
+  {
+    id: 7,
+    title: "Stress & Lifestyle Care",
+    description: "Holistic guidance to manage stress, improve routine, and maintain long-term wellness.",
+    image: "/images/treatments/stress-lifestyle.png",
+  },
+  {
+    id: 8,
+    title: "Digestive Health",
+    description: "Treatments focused on improving gut health, metabolism, and overall vitality.",
+    image: "/images/treatments/digestive.png",
+  },
+  {
+    id: 9,
+    title: "Rejuvenation Therapy",
+    description: "Restorative therapies designed to boost energy, immunity, and overall well-being.",
+    image: "/images/treatments/rejuvenation.png",
+  },
+  {
+    id: 10,
+    title: "Kati Basti (Back Therapy)",
+    description: "Targeted oil therapy for lower back pain, stiffness, and spinal support.",
+    image: "/images/treatments/panchakarma.jpg",
+  },
+  {
+    id: 11,
+    title: "Joint & Pain Management",
+    description: "Therapies focused on reducing inflammation, stiffness, and chronic joint discomfort.",
+    image: "/images/treatments/abhyanga.jpg",
+  },
+  {
+    id: 12,
+    title: "Sleep & Stress Therapy",
+    description: "Holistic treatments to improve sleep quality and reduce anxiety naturally.",
+    image: "/images/treatments/sleep-stress.png",
+  },
+  {
+    id: 13,
+    title: "Hormonal Balance Care",
+    description: "Ayurvedic approach to support hormonal health through herbs, diet, and routine.",
+    image: "/images/treatments/hormonal.png",
+  },
+  {
+    id: 14,
+    title: "Immunity Boosting Therapies",
+    description: "Strengthen your body's natural defense system with tailored herbal and lifestyle support.",
+    image: "/images/treatments/immunity.png",
+  },
+];
