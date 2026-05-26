@@ -4,6 +4,7 @@ import Footer from "@/components/Footer";
 import Home from "@/pages/Home";
 import TreatmentsPage from "@/pages/TreatmentsPage";
 import ScrollToTop from "@/components/ScrollToTop";
+import WhatsAppFloatingButton from "@/components/WhatsAppFloatingButton";
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/treatments" element={<TreatmentsPage />} />
         </Routes>
       </main>
+      <WhatsAppFloatingButton />
       <Footer />
     </div>
   );
